@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.titulo {
+  width: 100%;
+  height: auto;
+  background-color: black;
+}
+.titulo__1 {
+  color: white;
+  font-size: 3rem;
+  padding: 1rem;
+}
+
+.nav {
+  width: 30%;
+  height: 220px;
+  background-color: #c0b7b7;
+}
+.nav__menu {
+  font-size: 2rem;
+  padding: 1rem;
+}
+.nav__li {
+  margin-left: 3rem;
+  padding: 0.5rem;
+}
+
+.main {
+  width: 70%;
+  height: auto;
+  background-color: white;
+  float: left;
+  position: absolute;
+  left: 30%;
+  top: 12.2%;
+}
+.main__sub {
+  font-size: 2rem;
+  padding: 1rem;
+}
+.main__p {
+  padding: 1rem;
+}
+
+.footer {
+  width: 100%;
+  height: auto;
+  background-color: #635d5d;
+  color: white;
+  text-align: center;
+}
+.footer__p {
+  padding: 1rem;
+}
+
+/*# sourceMappingURL=main.css.map */

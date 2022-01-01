@@ -1,0 +1,170 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+    .flag{
+        border: 1px solid black;
+        width: 500px;
+        height: 250px;
+        float: left;
+        // margin-top: 3rem;
+        // margin-bottom: 3rem;
+        //  background-color: red;
+        margin: 20px;
+
+        &__spain-1{
+            background-color: red;
+            height: 25%;
+        }
+        
+        &__spain-2{
+            background-color: yellow;
+            height: 50%;
+        }
+        &__spain-3{
+            background-color: red;
+            height: 25%;
+        }
+
+    }
+
+    .denmark{
+        border: 1px solid black;
+        width: 500px;
+        height: 250px;
+        float: left;
+        // margin-top: 3rem;
+        // margin-bottom: 3rem;
+        //  background-color: red;
+        margin: 20px;
+        position: relative;
+
+        &__1{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            position: absolute;
+
+        }
+
+        &__2{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            position: absolute;
+            top: 150px;
+
+        }
+
+        &__3{
+            width: 360px;
+            height: 100px;
+            background-color: red;
+            position: absolute;
+            top: 170px;
+            left: 700px;
+
+        }
+
+        &__4{
+            width: 360px;
+            height: 100px;
+            background-color: red;
+            position: absolute;
+            top: 20px;
+            left: 700px;
+            
+
+        }
+
+        &__p{
+            position: absolute;
+            top: 270px;
+            right: 810px;
+        }
+
+        
+
+    }
+
+    .emirates{
+        border: 1px solid black;
+        width: 500px;
+        height: 250px;
+        float: left;
+        // margin-top: 3rem;
+        // margin-bottom: 3rem;
+        //  background-color: red;
+        margin: 20px;
+        position: relative;
+
+        &__1{
+            width:25% ;
+            height: 100%;
+            background-color: red;
+        }
+
+        &__2{
+            width: 75%;
+            height: 33%;
+            background-color:green;
+            position: absolute;
+            bottom: 167px;
+            right: 0px;
+        }
+
+        &__3{
+            width: 75%;
+            height: 33%;
+            background-color:white;
+            position: absolute;
+            right: 0px;
+            bottom: 85px;
+        }
+
+        &__4{
+            width: 75%;
+            height: 33%;
+            background-color:black;
+            position: absolute;
+            right: 0px;
+            bottom: 0px;
+        }
+
+
+
+    }
+
+    .japan{
+        border: 1px solid black;
+        width: 500px;
+        height: 250px;
+        float: left;
+        // margin-top: 3rem;
+        // margin-bottom: 3rem;
+        //  background-color: red;
+        margin: 20px;
+        position: relative;
+
+        &__1{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            border-radius: 100%;
+            position: absolute;
+            bottom: 70px;
+            right: 220px;
+        }
+
+        &__p{
+            position: absolute;
+            top: 248px;
+        }
+    }
+
+    
+
+   

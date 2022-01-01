@@ -1,0 +1,131 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flag {
+  border: 1px solid black;
+  width: 500px;
+  height: 250px;
+  float: left;
+  margin: 20px;
+}
+.flag__spain-1 {
+  background-color: red;
+  height: 25%;
+}
+.flag__spain-2 {
+  background-color: yellow;
+  height: 50%;
+}
+.flag__spain-3 {
+  background-color: red;
+  height: 25%;
+}
+
+.denmark {
+  border: 1px solid black;
+  width: 500px;
+  height: 250px;
+  float: left;
+  margin: 20px;
+  position: relative;
+}
+.denmark__1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+}
+.denmark__2 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  top: 150px;
+}
+.denmark__3 {
+  width: 360px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  top: 170px;
+  left: 700px;
+}
+.denmark__4 {
+  width: 360px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  top: 20px;
+  left: 700px;
+}
+.denmark__p {
+  position: absolute;
+  top: 270px;
+  right: 810px;
+}
+
+.emirates {
+  border: 1px solid black;
+  width: 500px;
+  height: 250px;
+  float: left;
+  margin: 20px;
+  position: relative;
+}
+.emirates__1 {
+  width: 25%;
+  height: 100%;
+  background-color: red;
+}
+.emirates__2 {
+  width: 75%;
+  height: 33%;
+  background-color: green;
+  position: absolute;
+  bottom: 167px;
+  right: 0px;
+}
+.emirates__3 {
+  width: 75%;
+  height: 33%;
+  background-color: white;
+  position: absolute;
+  right: 0px;
+  bottom: 85px;
+}
+.emirates__4 {
+  width: 75%;
+  height: 33%;
+  background-color: black;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+.japan {
+  border: 1px solid black;
+  width: 500px;
+  height: 250px;
+  float: left;
+  margin: 20px;
+  position: relative;
+}
+.japan__1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 100%;
+  position: absolute;
+  bottom: 70px;
+  right: 220px;
+}
+.japan__p {
+  position: absolute;
+  top: 248px;
+}
+
+/*# sourceMappingURL=style.css.map */
